@@ -1,0 +1,2 @@
+terminal-one: npm install hardhat
+tabs: ['contracts/Upload.sol']
